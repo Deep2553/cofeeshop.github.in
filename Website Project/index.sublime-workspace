@@ -1,0 +1,403 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"min",
+				"minlength\tAttr"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"linl",
+				"linksElement"
+			],
+			[
+				"link",
+				"linkLists"
+			],
+			[
+				"w",
+				"wikipediaUrl"
+			],
+			[
+				"sear",
+				"searchString"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"al",
+				"text-align\tproperty"
+			],
+			[
+				"font",
+				"font-size-adjust\tproperty"
+			],
+			[
+				"font-siz",
+				"font-size\tproperty"
+			],
+			[
+				"gr",
+				"grind"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"ma",
+				"margin-bottom\tproperty"
+			],
+			[
+				"r",
+				"rows\tAttr"
+			],
+			[
+				"dr",
+				"drink"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"a",
+				"action\tAttr"
+			],
+			[
+				"text",
+				"text-align-last\tproperty"
+			],
+			[
+				"border-col",
+				"border-collapse\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"backgro",
+				"background-image\tproperty"
+			],
+			[
+				"te",
+				"text-align-last\tproperty"
+			],
+			[
+				"tetx",
+				"text-align\tproperty"
+			],
+			[
+				"backgrou",
+				"background-color\tproperty"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"li",
+				"list-style-type\tproperty"
+			],
+			[
+				"br",
+				"brewing"
+			],
+			[
+				"roasting",
+				"roasting"
+			],
+			[
+				"font-",
+				"font-weight\tproperty"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"pre",
+				"pressure"
+			],
+			[
+				"fil",
+				"filtration"
+			],
+			[
+				"st",
+				"steeping"
+			],
+			[
+				"fi",
+				"figcaption\tTag"
+			],
+			[
+				"c",
+				"coffee"
+			],
+			[
+				"s",
+				"sans-serif\tfont-family"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"fo",
+				"flood-color\tproperty"
+			],
+			[
+				"lo",
+				"Login"
+			],
+			[
+				"o",
+				"option\tTag"
+			],
+			[
+				"h",
+				"height\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"in",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/HARIN/net connectivity/MyClient.java",
+		"/D/HARIN/net connectivity/MyException.java",
+		"/D/HARIN/net connectivity/LoginCheck.java",
+		"/D/HARIN/net connectivity/Insert.java",
+		"/D/HARIN/net connectivity/Saperate.java",
+		"/D/HARIN/net connectivity/MyServer.java",
+		"/D/HARIN/web technology/06-01-2020/task.html",
+		"/D/HARIN/web technology/extras/starterapp/styles.css",
+		"/D/HARIN/web technology/extras/starterapp/index.html",
+		"/D/HARIN/web technology/extras/starterapp/material.min.css",
+		"/D/HARIN/web technology/extras/starterapp/js/app.js",
+		"/D/HARIN/web technology/extras/starterapp(javascript/js/app.js",
+		"/D/HARIN/web technology/extras/starterapp(javascript/index.html",
+		"/D/HARIN/web technology/extras/starterapp(javascript/styles.css",
+		"/D/HARIN/web technology/extras/starterapp(javascript/js/libs/jquery-3.4.1.min.js",
+		"/D/HARIN/web technology/extras/starterapp(javascript/js/libs/jquery-3.3.1.min.js",
+		"/D/HARIN/web technology/23-12-19/font.html",
+		"/D/HARIN/web technology/23-12-19/font1.css",
+		"/D/HARIN/web technology/extras/Working Files/Website Project/grinding.html",
+		"/D/HARIN/web technology/extras/Working Files/Website Project/style.css",
+		"/D/HARIN/web technology/extras/Working Files/Website Project/survey.html",
+		"/D/HARIN/web technology/extras/Working Files/Website Project/roasting.html",
+		"/D/HARIN/web technology/extras/Working Files/Website Project/brewing.html",
+		"/D/HARIN/web technology/extras/Working Files/Website Project/drinks.html",
+		"/D/HARIN/web technology/extras/Working Files/Website Project/index.html",
+		"/C/Users/hp/Desktop/timepass.html",
+		"/D/HARIN/web technology/18-12-19/quiz with frame/4.html",
+		"/D/HARIN/web technology/18-12-19/Quiz Paper/Finish.html",
+		"/D/HARIN/web technology/18-12-19/quiz with frame/1.html",
+		"/D/HARIN/web technology/18-12-19/quiz with frame/0.html",
+		"/D/HARIN/web technology/18-12-19/quiz with frame/2.html",
+		"/D/HARIN/web technology/18-12-19/quiz with frame/3.html",
+		"/D/HARIN/web technology/18-12-19/check.html",
+		"/D/HARIN/web technology/18-12-19/cha.html",
+		"/D/HARIN/web technology/18-12-19/input.html",
+		"/D/HARIN/web technology/18-12-19/quiz.html",
+		"/C/Users/hp/Desktop/trial/1.html",
+		"/C/Users/hp/Desktop/trial/2.html",
+		"/C/Users/hp/Desktop/trial/4.html",
+		"/C/Users/hp/Desktop/trial/3.html",
+		"/D/HARIN/web technology/18-12-19/Quiz Paper/QuizPaper.html",
+		"/D/HARIN/web technology/18-12-19/Quiz Paper/QuizPaper2.html",
+		"/D/HARIN/web technology/18-12-19/Quiz Paper/QuizPaper1.html",
+		"/D/HARIN/web technology/17-12-19/cha.html",
+		"/D/HARIN/web technology/17-12-19/image.html",
+		"/C/Users/hp/Desktop/demo.html",
+		"/C/Users/hp/Desktop/table.html",
+		"/C/Users/hp/Desktop/demotry.html",
+		"/C/Users/hp/Desktop/demovaa.html",
+		"/D/HARIN/web technology/17-12-19/challenge.html",
+		"/D/HARIN/web technology/17-12-19/table2.html",
+		"/D/HARIN/web technology/17-12-19/table.html",
+		"/D/HARIN/web technology/16-12-19/first.html",
+		"/D/HARIN/web technology/16-12-19/second.html",
+		"/D/HARIN/PYTHON/files/hello.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"input",
+			".search\n",
+			".click\n",
+			";\n",
+			"\";",
+			"0",
+			"html",
+			"\t\t\t\t \t\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
